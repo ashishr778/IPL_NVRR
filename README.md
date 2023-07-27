@@ -1,0 +1,1 @@
+This code is a season by season analysis metric of individual batters created by comaparing a player's record in venues that he has batterd to that of the overall record at all the venues that he has batted
